@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 40px; /* espaciado de la pagina */
+    /* background-color:#DDDDDD;  color de fondo de la página */
+    background: url(Public/imagen1.png);
+    background-size:cover;
+}
+h1 {
+   color: rgb(28, 11, 157);
+}
+h2 {
+   color: rgb(64, 236, 252);
+}
+.H2style {
+   color: rgb(28, 104, 236);
+}
+h3 {
+   color:rgb(28, 122, 231);
+}
+P {
+   color:rgb(26, 122, 211);
+}
+.H2style {
+backdrop-filter: blur 40;
+}
+form{
+   color:rgb(196, 196, 244)
+}
+ul{
+   list-style: none;
+   display:flex;
+   justify-content: center;
+   gap: 90px;
+   color:aliceblue;
+}
+h5 {
+    color:rgb(49, 166, 244);
+ }
+ P {
+    color:rgb(51, 188, 247);
+}
